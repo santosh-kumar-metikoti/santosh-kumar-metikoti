@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santosh-kumar-metikoti" target="blank"><img align="center" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" alt="santosh kumar metikoti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/santosh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="santosh-kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/santosh_metikoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="santosh_metikoti" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14996252/santosh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="santosh-kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/santosh_metikoti/" target="blank"><img align="center" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" alt="santosh_metikoti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
