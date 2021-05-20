@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate front-end developer from India</h3>
 
 [![My Website!](https://img.shields.io/badge/-My%20Website-blue)](http://santoshkumar.netlify.com/)
-- 🔭 I’m currently working on **Gaming community website** <a href="https://gamers-dash.netlify.app/" target="blank">GamersDash</a>
+- 🔭 I’m currently working on **Gaming community website** : <a href="https://gamers-dash.netlify.app/" target="blank">GamersDash</a>
 
 - 💬 Ask me about **react, javascript, html, css**
 
 - 📫 How to reach me : **santosh.metikoti@gmail.com**
 
+- 👯 I’m looking for job opportunities
+
 - ⚡ Fun fact **I love watching animes**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
