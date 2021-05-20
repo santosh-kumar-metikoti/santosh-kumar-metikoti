@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm santosh kumar!</h1>
 <h3 align="center">Passionate front-end developer from India</h3>
 
-[My Website](santoshkumar.netlify.com)
+[![button](https://www.freeiconspng.com/uploads/website-icon-23.png)](http://santoshkumar.netlify.com/)
 
 
 - 🔭 I’m currently working on **Gaming community website**
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santosh-kumar-metikoti" target="blank"><img align="center" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" alt="santosh kumar metikoti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14996252/santosh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="santosh-kumar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/santosh_metikoti/" target="blank"><img align="center" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" alt="santosh_metikoti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosh-kumar-metikoti" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="santosh kumar metikoti" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/14996252/santosh-kumar" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/StackOverflow-512.png" alt="santosh-kumar" height="40" width="40" /></a>
+<a href="https://www.instagram.com/santosh_metikoti/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
