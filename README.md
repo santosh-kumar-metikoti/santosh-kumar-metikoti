@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm santosh kumar!</h1>
+<h1 align="center">Hi 👋, I'm Santosh Kumar!</h1>
 <h3 align="center">Passionate front-end developer from India</h3>
 
 [![My Website!](https://img.shields.io/badge/-My%20Website-blue)](http://santoshkumar.netlify.com/)
