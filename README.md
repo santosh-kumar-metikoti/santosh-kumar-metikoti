@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking for job opportunities
 
-- ⚡ Fun fact **I love watching animes**
+- ⚡ Fun fact **I love watching anime**
 
 
 
