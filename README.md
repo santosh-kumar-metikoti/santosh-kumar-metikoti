@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 [![My Website - Here](https://img.shields.io/badge/My_Website-Here-E11941?style=for-the-badge)](https://santoshkumar.netlify.app/)
 - 🔭 I’m currently working on **Gaming community website** : <a href="https://gamers-dash.netlify.app/" target="blank">GamersDash</a>
 
-- 💬 Ask me about **react, javascript, html, css**
+- 💬 Ask me about **C#, react, javascript, html, css**
 
 - 📫 How to reach me : **santosh.metikoti@gmail.com**
-
-- 👯 I’m looking for job opportunities
 
 - ⚡ Fun fact **I love watching anime**
 
