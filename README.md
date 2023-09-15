@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Santosh Kumar!</h1>
 <h3 align="center">Passionate Developer from India</h3>
 
-[![My Website - Here](https://img.shields.io/badge/My_Website-Here-E11941?style=for-the-badge)](https://santoshm.in)
+[![My Website - Here](https://img.shields.io/badge/My_Website-Here-E11941?style=for-the-badge)](https://www.santoshm.in/)
 - 🔭 I’m currently working on **Gaming community website** : <a href="https://gamers-dash.netlify.app/" target="blank">GamersDash</a>
 
 - 💬 Ask me about **C#, react, javascript, html, css**
